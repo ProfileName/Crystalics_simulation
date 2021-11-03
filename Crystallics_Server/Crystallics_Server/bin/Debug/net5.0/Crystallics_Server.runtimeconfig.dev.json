@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jbodegom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jbodegom\\.nuget\\packages"
+    ]
+  }
+}
